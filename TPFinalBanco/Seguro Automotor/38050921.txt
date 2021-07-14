@@ -1,0 +1,7 @@
+Cuit= 38050921
+Marca= Chevrolet
+Modelo= Clasico
+Año= 2005-2010
+Dominio= OLB100
+Tipo de Seguro= Contra terceros
+Franquicia= 7000

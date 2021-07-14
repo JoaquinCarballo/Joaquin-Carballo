@@ -1,0 +1,11 @@
+Cuit= 38050921
+Genero= Masculino
+Nombre= joaquin
+Apellido= carballo
+Fecha= 20/12/1993
+Domicilio= calle 123
+Localidad= villa luro
+Provincia= Buenos Aires
+Email= carballo@gmail.com
+Estado= Casado/a
+Hijoso= 0

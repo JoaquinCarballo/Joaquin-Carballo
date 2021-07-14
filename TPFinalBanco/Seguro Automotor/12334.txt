@@ -1,0 +1,7 @@
+Cuit= 12334
+Marca= Chevrolet
+Modelo= GT
+Año= 2021
+Dominio= a2123
+Tipo de Seguro= Contra terceros
+Franquicia= 7000

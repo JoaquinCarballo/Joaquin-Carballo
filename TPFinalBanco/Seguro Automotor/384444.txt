@@ -1,0 +1,7 @@
+Cuit= 384444
+Marca= Chevrolet
+Modelo= GT
+Año= 2021
+Dominio= ad100wz
+Tipo de Seguro= Contra terceros
+Franquicia= 7000
